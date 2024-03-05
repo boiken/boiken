@@ -31,6 +31,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/boiken/boiken/output/snake.svg" alt="Snake animation" />
+
 
 ###
